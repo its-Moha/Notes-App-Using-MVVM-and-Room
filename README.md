@@ -9,3 +9,6 @@
  - ViewBinding
  - Recyclerview
  - Item CardView
+ - Alert Dialog
+
+# Screenshots
